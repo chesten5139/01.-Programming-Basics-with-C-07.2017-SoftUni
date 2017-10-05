@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\06.Square of Stars\bin\Debug\06.Square of Stars.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\06.Square of Stars\bin\Debug\06.Square of Stars.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\06.Square of Stars\bin\Debug\06.Square of Stars.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\06.Square of Stars\obj\Debug\06.Square of Stars.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\06.Square of Stars\obj\Debug\06.Square of Stars.pdb

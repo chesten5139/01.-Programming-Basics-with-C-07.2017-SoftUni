@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\FirstSteps\bin\Debug\FirstSteps.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\FirstSteps\bin\Debug\FirstSteps.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\FirstSteps\bin\Debug\FirstSteps.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\FirstSteps\obj\Debug\01.HelloSoftUni.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\FirstSteps\obj\Debug\FirstSteps.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\FirstSteps\obj\Debug\FirstSteps.pdb

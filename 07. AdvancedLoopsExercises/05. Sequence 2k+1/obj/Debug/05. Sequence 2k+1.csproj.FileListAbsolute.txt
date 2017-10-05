@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\05. Sequence 2k+1\obj\Debug\05. Sequence 2k+1.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.pdb

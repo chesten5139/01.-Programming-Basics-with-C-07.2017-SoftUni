@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\13. 1000DaysAfterBirth\bin\Debug\13. 1000DaysAfterBirth.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\13. 1000DaysAfterBirth\bin\Debug\13. 1000DaysAfterBirth.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\13. 1000DaysAfterBirth\bin\Debug\13. 1000DaysAfterBirth.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\13. 1000DaysAfterBirth\obj\Debug\13. 1000DaysAfterBirth.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\13. 1000DaysAfterBirth\obj\Debug\13. 1000DaysAfterBirth.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\13. 1000DaysAfterBirth\obj\Debug\13. 1000DaysAfterBirth.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\13. 1000DaysAfterBirth\obj\Debug\13. 1000DaysAfterBirth.pdb

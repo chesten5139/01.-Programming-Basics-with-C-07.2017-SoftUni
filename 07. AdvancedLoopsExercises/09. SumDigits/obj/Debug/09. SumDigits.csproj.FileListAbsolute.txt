@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\09. SumDigits\bin\Debug\_09.SumDigits.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\09. SumDigits\bin\Debug\_09.SumDigits.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\09. SumDigits\bin\Debug\_09.SumDigits.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\09. SumDigits\obj\Debug\09. SumDigits.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\09. SumDigits\obj\Debug\_09.SumDigits.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\09. SumDigits\obj\Debug\_09.SumDigits.pdb

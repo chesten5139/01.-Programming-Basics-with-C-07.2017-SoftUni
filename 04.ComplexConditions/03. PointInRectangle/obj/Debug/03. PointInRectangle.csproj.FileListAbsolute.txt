@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\03. PointInRectangle\bin\Debug\_03.PointInRectangle.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\03. PointInRectangle\bin\Debug\_03.PointInRectangle.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\03. PointInRectangle\bin\Debug\_03.PointInRectangle.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\03. PointInRectangle\obj\Debug\03. PointInRectangle.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\03. PointInRectangle\obj\Debug\03. PointInRectangle.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\03. PointInRectangle\obj\Debug\_03.PointInRectangle.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\03. PointInRectangle\obj\Debug\_03.PointInRectangle.pdb

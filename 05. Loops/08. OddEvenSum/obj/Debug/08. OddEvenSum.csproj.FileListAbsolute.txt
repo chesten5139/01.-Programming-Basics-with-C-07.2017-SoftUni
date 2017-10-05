@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\08. OddEvenSum\bin\Debug\_08.OddEvenSum.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\08. OddEvenSum\bin\Debug\_08.OddEvenSum.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\08. OddEvenSum\bin\Debug\_08.OddEvenSum.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\08. OddEvenSum\obj\Debug\08. OddEvenSum.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\08. OddEvenSum\obj\Debug\_08.OddEvenSum.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\08. OddEvenSum\obj\Debug\_08.OddEvenSum.pdb

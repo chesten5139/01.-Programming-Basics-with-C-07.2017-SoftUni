@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\09. CelsiusToFahrenheit\bin\Debug\_09.CelsiusToFahrenheit.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\09. CelsiusToFahrenheit\bin\Debug\_09.CelsiusToFahrenheit.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\09. CelsiusToFahrenheit\bin\Debug\_09.CelsiusToFahrenheit.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\09. CelsiusToFahrenheit\obj\Debug\_09.CelsiusToFahrenheit.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\09. CelsiusToFahrenheit\obj\Debug\_09.CelsiusToFahrenheit.pdb

@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\09. VowelsSum\bin\Debug\_09.VowelsSum.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\09. VowelsSum\obj\Debug\09. VowelsSum.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\09. VowelsSum\obj\Debug\_09.VowelsSum.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\09. VowelsSum\obj\Debug\_09.VowelsSum.pdb

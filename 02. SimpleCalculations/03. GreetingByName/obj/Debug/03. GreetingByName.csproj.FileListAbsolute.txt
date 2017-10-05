@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\03. GreetingByName\bin\Debug\_03.GreetingByName.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\03. GreetingByName\bin\Debug\_03.GreetingByName.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\03. GreetingByName\bin\Debug\_03.GreetingByName.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\03. GreetingByName\obj\Debug\_03.GreetingByName.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\03. GreetingByName\obj\Debug\_03.GreetingByName.pdb

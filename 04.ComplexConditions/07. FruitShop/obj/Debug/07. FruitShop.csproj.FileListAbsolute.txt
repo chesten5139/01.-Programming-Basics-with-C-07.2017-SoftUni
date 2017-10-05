@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\07. FruitShop\bin\Debug\_07.FruitShop.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\07. FruitShop\bin\Debug\_07.FruitShop.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\07. FruitShop\bin\Debug\_07.FruitShop.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\07. FruitShop\obj\Debug\07. FruitShop.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\07. FruitShop\obj\Debug\07. FruitShop.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\07. FruitShop\obj\Debug\_07.FruitShop.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\07. FruitShop\obj\Debug\_07.FruitShop.pdb

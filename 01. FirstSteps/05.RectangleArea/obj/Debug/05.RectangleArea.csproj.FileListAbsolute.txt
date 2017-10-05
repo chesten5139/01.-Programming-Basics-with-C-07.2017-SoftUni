@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\05.RectangleArea\bin\Debug\05.RectangleArea.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\05.RectangleArea\bin\Debug\05.RectangleArea.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\05.RectangleArea\bin\Debug\05.RectangleArea.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\05.RectangleArea\obj\Debug\05.RectangleArea.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\05.RectangleArea\obj\Debug\05.RectangleArea.pdb

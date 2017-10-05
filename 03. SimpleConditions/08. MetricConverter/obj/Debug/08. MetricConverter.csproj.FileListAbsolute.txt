@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\08. MetricConverter\bin\Debug\_08.MetricConverter.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\08. MetricConverter\bin\Debug\_08.MetricConverter.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\08. MetricConverter\bin\Debug\_08.MetricConverter.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\08. MetricConverter\obj\Debug\08. MetricConverter.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\08. MetricConverter\obj\Debug\08. MetricConverter.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\08. MetricConverter\obj\Debug\_08.MetricConverter.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\08. MetricConverter\obj\Debug\_08.MetricConverter.pdb

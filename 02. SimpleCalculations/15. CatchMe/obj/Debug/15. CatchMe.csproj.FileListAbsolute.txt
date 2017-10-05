@@ -1,0 +1,10 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\bin\Debug\_15.CatchMe.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\bin\Debug\_15.CatchMe.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\bin\Debug\_15.CatchMe.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\obj\Debug\15. CatchMe.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\obj\Debug\_15.CatchMe.Form1.resources
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\obj\Debug\_15.CatchMe.Properties.Resources.resources
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\obj\Debug\15. CatchMe.csproj.GenerateResource.Cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\obj\Debug\15. CatchMe.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\obj\Debug\_15.CatchMe.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\15. CatchMe\obj\Debug\_15.CatchMe.pdb

@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\01. Numbers1NWithStep3\bin\Debug\_01.Numbers1NWithStep3.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\01. Numbers1NWithStep3\bin\Debug\_01.Numbers1NWithStep3.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\01. Numbers1NWithStep3\bin\Debug\_01.Numbers1NWithStep3.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\01. Numbers1NWithStep3\obj\Debug\01. Numbers1NWithStep3.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\01. Numbers1NWithStep3\obj\Debug\01. Numbers1NWithStep3.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\01. Numbers1NWithStep3\obj\Debug\_01.Numbers1NWithStep3.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\01. Numbers1NWithStep3\obj\Debug\_01.Numbers1NWithStep3.pdb

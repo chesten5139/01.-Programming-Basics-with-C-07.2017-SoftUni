@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\06. CircleAreaAndPerimeter\bin\Debug\_06.CircleAreaAndPerimeter.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\06. CircleAreaAndPerimeter\bin\Debug\_06.CircleAreaAndPerimeter.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\06. CircleAreaAndPerimeter\bin\Debug\_06.CircleAreaAndPerimeter.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\06. CircleAreaAndPerimeter\obj\Debug\_06.CircleAreaAndPerimeter.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\06. CircleAreaAndPerimeter\obj\Debug\_06.CircleAreaAndPerimeter.pdb

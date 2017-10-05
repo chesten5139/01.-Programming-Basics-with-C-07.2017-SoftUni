@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\06. PointOnRectangleBorder\bin\Debug\_06.PointOnRectangleBorder.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\06. PointOnRectangleBorder\bin\Debug\_06.PointOnRectangleBorder.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\06. PointOnRectangleBorder\bin\Debug\_06.PointOnRectangleBorder.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\06. PointOnRectangleBorder\obj\Debug\06. PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\06. PointOnRectangleBorder\obj\Debug\_06.PointOnRectangleBorder.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\04.ComplexConditions\06. PointOnRectangleBorder\obj\Debug\_06.PointOnRectangleBorder.pdb

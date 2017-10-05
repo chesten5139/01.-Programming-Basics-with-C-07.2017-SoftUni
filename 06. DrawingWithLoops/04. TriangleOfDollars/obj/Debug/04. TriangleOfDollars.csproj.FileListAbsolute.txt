@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\04. TriangleOfDollars\bin\Debug\_04.TriangleOfDollars.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\04. TriangleOfDollars\bin\Debug\_04.TriangleOfDollars.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\04. TriangleOfDollars\bin\Debug\_04.TriangleOfDollars.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\04. TriangleOfDollars\obj\Debug\04. TriangleOfDollars.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\04. TriangleOfDollars\obj\Debug\_04.TriangleOfDollars.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\04. TriangleOfDollars\obj\Debug\_04.TriangleOfDollars.pdb

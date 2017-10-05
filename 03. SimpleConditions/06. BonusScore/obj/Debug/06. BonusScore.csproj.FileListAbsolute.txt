@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\06. BonusScore\bin\Debug\_06.BonusScore.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\06. BonusScore\bin\Debug\_06.BonusScore.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\06. BonusScore\bin\Debug\_06.BonusScore.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\06. BonusScore\obj\Debug\06. BonusScore.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\06. BonusScore\obj\Debug\_06.BonusScore.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\06. BonusScore\obj\Debug\_06.BonusScore.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\06. BonusScore\obj\Debug\06. BonusScore.csprojResolveAssemblyReference.cache

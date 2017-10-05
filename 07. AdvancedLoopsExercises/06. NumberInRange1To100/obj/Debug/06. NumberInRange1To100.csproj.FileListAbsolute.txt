@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\06. NumberInRange1To100\bin\Debug\_06.NumberInRange1To100.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\06. NumberInRange1To100\bin\Debug\_06.NumberInRange1To100.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\06. NumberInRange1To100\bin\Debug\_06.NumberInRange1To100.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\06. NumberInRange1To100\obj\Debug\06. NumberInRange1To100.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\06. NumberInRange1To100\obj\Debug\_06.NumberInRange1To100.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\06. NumberInRange1To100\obj\Debug\_06.NumberInRange1To100.pdb

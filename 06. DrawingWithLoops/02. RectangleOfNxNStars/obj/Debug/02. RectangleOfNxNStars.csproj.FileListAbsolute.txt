@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\02. RectangleOfNxNStars\bin\Debug\_02.RectangleOfNxNStars.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\02. RectangleOfNxNStars\bin\Debug\_02.RectangleOfNxNStars.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\02. RectangleOfNxNStars\bin\Debug\_02.RectangleOfNxNStars.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\02. RectangleOfNxNStars\obj\Debug\02. RectangleOfNxNStars.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\02. RectangleOfNxNStars\obj\Debug\_02.RectangleOfNxNStars.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\02. RectangleOfNxNStars\obj\Debug\_02.RectangleOfNxNStars.pdb

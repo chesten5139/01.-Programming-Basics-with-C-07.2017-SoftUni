@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\3. SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\3. SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\3. SimpleConditions\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\3. SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\3. SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\3. SimpleConditions\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

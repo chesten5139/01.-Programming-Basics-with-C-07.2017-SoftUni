@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\03. LatinLetters\bin\Debug\_03.LatinLetters.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\03. LatinLetters\obj\Debug\03. LatinLetters.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\03. LatinLetters\obj\Debug\_03.LatinLetters.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\03. LatinLetters\obj\Debug\_03.LatinLetters.pdb

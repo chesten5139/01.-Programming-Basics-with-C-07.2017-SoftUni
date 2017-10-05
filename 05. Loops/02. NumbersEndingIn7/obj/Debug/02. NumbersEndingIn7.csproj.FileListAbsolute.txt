@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\02. NumbersEndingIn7\bin\Debug\_02.NumbersEndingIn7.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\02. NumbersEndingIn7\bin\Debug\_02.NumbersEndingIn7.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\02. NumbersEndingIn7\bin\Debug\_02.NumbersEndingIn7.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\02. NumbersEndingIn7\obj\Debug\02. NumbersEndingIn7.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\02. NumbersEndingIn7\obj\Debug\02. NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\02. NumbersEndingIn7\obj\Debug\_02.NumbersEndingIn7.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\02. NumbersEndingIn7\obj\Debug\_02.NumbersEndingIn7.pdb

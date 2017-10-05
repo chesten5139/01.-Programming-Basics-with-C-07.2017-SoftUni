@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\14. Time15Minutes\bin\Debug\_14.Time15Minutes.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\14. Time15Minutes\bin\Debug\_14.Time15Minutes.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\14. Time15Minutes\bin\Debug\_14.Time15Minutes.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\14. Time15Minutes\obj\Debug\14. Time15Minutes.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\14. Time15Minutes\obj\Debug\14. Time15Minutes.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\14. Time15Minutes\obj\Debug\_14.Time15Minutes.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\14. Time15Minutes\obj\Debug\_14.Time15Minutes.pdb

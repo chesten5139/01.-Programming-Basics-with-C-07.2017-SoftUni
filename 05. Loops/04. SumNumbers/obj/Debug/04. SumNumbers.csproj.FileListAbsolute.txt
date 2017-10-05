@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\04. SumNumbers\bin\Debug\_04.SumNumbers.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\04. SumNumbers\obj\Debug\04. SumNumbers.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\04. SumNumbers\obj\Debug\_04.SumNumbers.pdb

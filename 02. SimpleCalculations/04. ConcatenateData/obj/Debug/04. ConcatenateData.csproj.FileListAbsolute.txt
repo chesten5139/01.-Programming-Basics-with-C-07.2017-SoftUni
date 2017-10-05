@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\04. ConcatenateData\bin\Debug\_04.ConcatenateData.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\04. ConcatenateData\bin\Debug\_04.ConcatenateData.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\04. ConcatenateData\bin\Debug\_04.ConcatenateData.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\04. ConcatenateData\obj\Debug\_04.ConcatenateData.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\04. ConcatenateData\obj\Debug\_04.ConcatenateData.pdb

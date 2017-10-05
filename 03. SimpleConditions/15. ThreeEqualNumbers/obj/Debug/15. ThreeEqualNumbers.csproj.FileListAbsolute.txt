@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\15. ThreeEqualNumbers\obj\Debug\15. ThreeEqualNumbers.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\15. ThreeEqualNumbers\bin\Debug\_15.ThreeEqualNumbers.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\15. ThreeEqualNumbers\bin\Debug\_15.ThreeEqualNumbers.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\15. ThreeEqualNumbers\bin\Debug\_15.ThreeEqualNumbers.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\15. ThreeEqualNumbers\obj\Debug\_15.ThreeEqualNumbers.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\15. ThreeEqualNumbers\obj\Debug\_15.ThreeEqualNumbers.pdb

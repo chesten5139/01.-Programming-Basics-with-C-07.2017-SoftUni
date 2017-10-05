@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\07. SumSeconds\bin\Debug\_07.SumSeconds.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\07. SumSeconds\bin\Debug\_07.SumSeconds.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\07. SumSeconds\bin\Debug\_07.SumSeconds.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\07. SumSeconds\obj\Debug\07. SumSeconds.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\07. SumSeconds\obj\Debug\_07.SumSeconds.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\07. SumSeconds\obj\Debug\_07.SumSeconds.pdb

@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\04.TriangleOf55Stars\obj\Debug\04.TriangleOf55Stars.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\04.TriangleOf55Stars\obj\Debug\04.TriangleOf55Stars.pdb

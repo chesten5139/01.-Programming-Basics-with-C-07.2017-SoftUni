@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\13. AreaOfFigures\bin\Debug\_13.AreaOfFigures.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\13. AreaOfFigures\bin\Debug\_13.AreaOfFigures.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\13. AreaOfFigures\bin\Debug\_13.AreaOfFigures.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\13. AreaOfFigures\obj\Debug\13. AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\13. AreaOfFigures\obj\Debug\_13.AreaOfFigures.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\13. AreaOfFigures\obj\Debug\_13.AreaOfFigures.pdb

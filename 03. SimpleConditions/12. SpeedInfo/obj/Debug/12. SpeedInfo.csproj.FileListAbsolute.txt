@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\12. SpeedInfo\bin\Debug\_12.SpeedInfo.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\12. SpeedInfo\bin\Debug\_12.SpeedInfo.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\12. SpeedInfo\bin\Debug\_12.SpeedInfo.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\12. SpeedInfo\obj\Debug\12. SpeedInfo.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\12. SpeedInfo\obj\Debug\12. SpeedInfo.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\12. SpeedInfo\obj\Debug\_12.SpeedInfo.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\12. SpeedInfo\obj\Debug\_12.SpeedInfo.pdb

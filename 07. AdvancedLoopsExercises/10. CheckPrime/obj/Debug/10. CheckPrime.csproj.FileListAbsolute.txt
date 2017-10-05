@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\10. CheckPrime\bin\Debug\_10.CheckPrime.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\10. CheckPrime\bin\Debug\_10.CheckPrime.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\10. CheckPrime\bin\Debug\_10.CheckPrime.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\10. CheckPrime\obj\Debug\10. CheckPrime.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\10. CheckPrime\obj\Debug\_10.CheckPrime.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\10. CheckPrime\obj\Debug\_10.CheckPrime.pdb

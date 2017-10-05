@@ -1,0 +1,10 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\bin\Debug\_14.BGN_to_EUR_Converter.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\bin\Debug\_14.BGN_to_EUR_Converter.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\bin\Debug\_14.BGN_to_EUR_Converter.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\obj\Debug\14. BGN-to-EUR-Converter.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\obj\Debug\_14.BGN_to_EUR_Converter.FormConverter.resources
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\obj\Debug\_14.BGN_to_EUR_Converter.Properties.Resources.resources
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\obj\Debug\14. BGN-to-EUR-Converter.csproj.GenerateResource.Cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\obj\Debug\14. BGN-to-EUR-Converter.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\obj\Debug\_14.BGN_to_EUR_Converter.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\14. BGN-to-EUR-Converter\obj\Debug\_14.BGN_to_EUR_Converter.pdb

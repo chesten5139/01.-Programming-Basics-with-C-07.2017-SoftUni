@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\08. Sunglasses\bin\Debug\_08.Sunglasses.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\08. Sunglasses\bin\Debug\_08.Sunglasses.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\08. Sunglasses\bin\Debug\_08.Sunglasses.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\08. Sunglasses\obj\Debug\08. Sunglasses.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\08. Sunglasses\obj\Debug\08. Sunglasses.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\08. Sunglasses\obj\Debug\_08.Sunglasses.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\06. DrawingWithLoops\08. Sunglasses\obj\Debug\_08.Sunglasses.pdb

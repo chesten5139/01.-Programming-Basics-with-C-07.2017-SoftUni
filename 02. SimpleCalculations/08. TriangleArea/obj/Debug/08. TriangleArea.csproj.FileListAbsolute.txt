@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\08. TriangleArea\bin\Debug\_08.TriangleArea.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\08. TriangleArea\bin\Debug\_08.TriangleArea.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\08. TriangleArea\bin\Debug\_08.TriangleArea.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\08. TriangleArea\obj\Debug\08. TriangleArea.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\08. TriangleArea\obj\Debug\_08.TriangleArea.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\08. TriangleArea\obj\Debug\_08.TriangleArea.pdb

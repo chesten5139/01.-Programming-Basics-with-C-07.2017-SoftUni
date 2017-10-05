@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\06. MinNumber\bin\Debug\_06.MinNumber.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\06. MinNumber\bin\Debug\_06.MinNumber.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\06. MinNumber\bin\Debug\_06.MinNumber.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\06. MinNumber\obj\Debug\06. MinNumber.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\06. MinNumber\obj\Debug\_06.MinNumber.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\5. Loops\06. MinNumber\obj\Debug\_06.MinNumber.pdb

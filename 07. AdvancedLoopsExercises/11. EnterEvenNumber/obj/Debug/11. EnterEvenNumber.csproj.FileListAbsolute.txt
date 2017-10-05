@@ -1,0 +1,6 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\11. EnterEvenNumber\bin\Debug\_11.EnterEvenNumber.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\11. EnterEvenNumber\bin\Debug\_11.EnterEvenNumber.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\11. EnterEvenNumber\bin\Debug\_11.EnterEvenNumber.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\11. EnterEvenNumber\obj\Debug\11. EnterEvenNumber.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\11. EnterEvenNumber\obj\Debug\_11.EnterEvenNumber.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\11. EnterEvenNumber\obj\Debug\_11.EnterEvenNumber.pdb

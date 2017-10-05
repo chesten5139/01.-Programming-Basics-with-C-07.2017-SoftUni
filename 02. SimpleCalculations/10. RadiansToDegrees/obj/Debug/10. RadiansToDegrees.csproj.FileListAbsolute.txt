@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\10. RadiansToDegrees\bin\Debug\_10.RadiansToDegrees.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\10. RadiansToDegrees\bin\Debug\_10.RadiansToDegrees.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\10. RadiansToDegrees\bin\Debug\_10.RadiansToDegrees.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\10. RadiansToDegrees\obj\Debug\_10.RadiansToDegrees.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\02. SimpleCalculations\10. RadiansToDegrees\obj\Debug\_10.RadiansToDegrees.pdb

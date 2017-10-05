@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\07. GreatestCommonDivisor\bin\Debug\_07.GreatestCommonDivisor.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\07. GreatestCommonDivisor\bin\Debug\_07.GreatestCommonDivisor.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\07. GreatestCommonDivisor\bin\Debug\_07.GreatestCommonDivisor.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\07. GreatestCommonDivisor\obj\Debug\07. GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\07. GreatestCommonDivisor\obj\Debug\_07.GreatestCommonDivisor.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\07. GreatestCommonDivisor\obj\Debug\_07.GreatestCommonDivisor.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\07. AdvancedLoopsExercises\07. GreatestCommonDivisor\obj\Debug\07. GreatestCommonDivisor.csprojResolveAssemblyReference.cache

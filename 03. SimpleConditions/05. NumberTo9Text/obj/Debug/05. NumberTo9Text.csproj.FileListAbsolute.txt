@@ -1,0 +1,7 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\05. NumberTo9Text\bin\Debug\_05.NumberTo9Text.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\05. NumberTo9Text\bin\Debug\_05.NumberTo9Text.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\05. NumberTo9Text\bin\Debug\_05.NumberTo9Text.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\05. NumberTo9Text\obj\Debug\05. NumberTo9Text.csprojResolveAssemblyReference.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\05. NumberTo9Text\obj\Debug\05. NumberTo9Text.csproj.CoreCompileInputs.cache
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\05. NumberTo9Text\obj\Debug\_05.NumberTo9Text.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\03. SimpleConditions\05. NumberTo9Text\obj\Debug\_05.NumberTo9Text.pdb

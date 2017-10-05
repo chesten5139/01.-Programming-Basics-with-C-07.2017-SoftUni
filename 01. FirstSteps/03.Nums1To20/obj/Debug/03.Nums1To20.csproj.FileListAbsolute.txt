@@ -1,0 +1,5 @@
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\03.Nums1To20\bin\Debug\03.Nums1To20.exe.config
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\03.Nums1To20\bin\Debug\03.Nums1To20.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\03.Nums1To20\bin\Debug\03.Nums1To20.pdb
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\03.Nums1To20\obj\Debug\03.Nums1To20.exe
+D:\Dropbox\Educational\Programming\Programming Basics with C# 07.2017 SoftUni\FirstSteps\03.Nums1To20\obj\Debug\03.Nums1To20.pdb
